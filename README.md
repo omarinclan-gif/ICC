@@ -1,7 +1,7 @@
 # ICC
-Nombre: Omar Inclan Ayala\n
-numero de cuenta: 427376630\n
-  practicas subidas: practica01\n
+Nombre: Omar Inclan Ayala
+numero de cuenta: 427376630
+  practicas subidas: practica01
                               -archivos: Psicologo.java
                                          RFC.java
           
